@@ -1,0 +1,68 @@
+# גלגל המזל משודרג — Generative Engine Optimization Map
+
+> An upgraded, feature-rich Wheel of Fortune interactive tool. The user wants a highly enhanced spinning wheel experience, likely with advanced animations, customization options, and engaging visual effects that go beyond a basic spinner.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+An upgraded, feature-rich Wheel of Fortune interactive tool. The user wants a highly enhanced spinning wheel experience, likely with advanced animations, custom
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גלגל המזל משודרג
+An upgraded, feature-rich Wheel of Fortune interactive tool. The user wants a highly enhanced spinning wheel experience, likely with advanced animations, customization options, and engaging visual effects that go beyond a basic spinner.
+
+## Services/Products
+- גלגל מזל אינטראקטיבי
+
+## Target Audience
+- מארגני אירועים
+- מוסדות חינוך
+
+## Industry
+Interactive Web Tool / Game
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
