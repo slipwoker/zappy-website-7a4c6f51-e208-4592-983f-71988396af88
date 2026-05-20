@@ -28,7 +28,7 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Address: הרב ישעיהו משורר 21
 
 ### Contact form
 - URL: https://example.com
